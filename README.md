@@ -1,0 +1,2 @@
+# NodeJS Coding Problem
+write a NodeJS function that will process N number of tasks concurrently, until the taskList is exhausted. N defines the number of concurrent promises that your script should attempt to resolve, and should be changeable on the fly. For example, if the current local time is between 9am and 5pm, N = 10, otherwise N = 150.
